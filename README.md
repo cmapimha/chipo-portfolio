@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chipo Mapimha  
+# 👋 Hi, I'm Chipo 
 ### **Cloud & DevOps Engineer — Azure | Kubernetes | Bicep | CI/CD Automation**
 
 I design and build scalable cloud infrastructure using Azure, Kubernetes, and Infrastructure‑as‑Code. My work focuses on creating reliable multi‑environment architectures, modern CI/CD pipelines, and automated deployment systems that help teams ship faster and operate confidently.
