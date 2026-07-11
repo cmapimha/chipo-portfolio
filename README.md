@@ -26,8 +26,6 @@ My full portfolio, projects, and blog:
 
 ## 📫 **Connect with me**
 - GitHub: https://github.com/cmapimha  
-- LinkedIn: [*add your link here* ](http://linkedin.com/in/milicent-m-07139) 
-
----
+- LinkedIn: (http://linkedin.com/in/milicent-m-07139) 
 
 ### 🚀 *More projects, case studies, and blog posts coming soon.*
