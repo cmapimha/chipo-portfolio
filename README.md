@@ -1,44 +1,33 @@
-### 👋 Hi, I'm Chipo Mapimha  
-**Cloud & DevOps Engineer — Azure | Kubernetes | Bicep | CI/CD**
+# 👋 Hi, I'm Chipo Mapimha  
+### **Cloud & DevOps Engineer — Azure | Kubernetes | Bicep | CI/CD Automation**
 
-I build scalable cloud infrastructure and DevOps automation using Azure, Kubernetes, Bicep, and Azure DevOps. I enjoy designing multi‑environment architectures, writing clean IaC, and building pipelines that help teams ship faster and more reliably.
+I design and build scalable cloud infrastructure using Azure, Kubernetes, and Infrastructure‑as‑Code. My work focuses on creating reliable multi‑environment architectures, modern CI/CD pipelines, and automated deployment systems that help teams ship faster and operate confidently.
 
-This portfolio highlights the projects, case studies, and cloud engineering work I’ve done — from multi‑environment Bicep frameworks to AKS deployments and modern CI/CD pipelines.
+I enjoy solving real engineering problems — structuring Bicep modules, deploying AKS workloads, optimizing pipelines, and turning complex cloud environments into clean, maintainable solutions.
 
-🔗 **Portfolio:** https://cmapimha.github.io/chipo-portfolio  
-🔗 **GitHub:** https://github.com/cmapimha  
+---
 
-# Portfolio Starter Kit
+## 🔧 **Tech Stack**
+- **Cloud:** Azure  
+- **IaC:** Bicep, ARM, Terraform (learning)  
+- **Containers:** Docker, Kubernetes, AKS  
+- **DevOps:** Azure DevOps, GitHub Actions  
+- **CI/CD:** Multi‑stage pipelines, YAML automation  
+- **Languages:** PowerShell, Bash, YAML, JSON  
+- **Other:** Key Vault, ACR, Static Web Apps, Function Apps  
 
-This portfolio is built with **Next.js** and a library called [Nextra](https://nextra.vercel.app/). It allows you to write Markdown and focus on the _content_ of your portfolio. This starter includes:
+---
 
-- Automatically configured to handle Markdown/MDX
-- Generates an RSS feed based on your posts
-- A beautiful theme included out of the box
-- Easily categorize posts with tags
-- Fast, optimized web font loading
+## 📁 **Portfolio**
+My full portfolio, projects, and blog:  
+👉 **https://github.com/cmapimha/chipo-portfolio**
 
-## Configuration
+---
 
-1. Update your name in `theme.config.js` or change the footer.
-1. Update your name and site URL for the RSS feed in `scripts/gen-rss.js`.
-1. Update the meta tags in `pages/_document.js`.
-1. Update the posts inside `pages/posts/*.md` with your own content.
+## 📫 **Connect with me**
+- GitHub: https://github.com/cmapimha  
+- LinkedIn: [*add your link here* ](http://linkedin.com/in/milicent-m-07139) 
 
-## Deploy your own
+---
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/nextjs-portfolio-starter&project-name=portfolio&repository-name=portfolio)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example blog my-blog
-# or
-yarn create next-app --example blog my-blog
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+### 🚀 *More projects, case studies, and blog posts coming soon.*
