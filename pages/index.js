@@ -1,0 +1,37 @@
+export default function Home() {
+  return (
+    <div className="landing-container">
+      <section className="hero">
+        <h1 className="hero-title">Chipo Mapimha</h1>
+        <h2 className="hero-subtitle">Cloud & DevOps Engineer</h2>
+        <p className="hero-text">
+          Designing secure, scalable Azure infrastructure and automated CI/CD pipelines
+          for modern cloud‑native applications.
+        </p>
+
+        <div className="hero-buttons">
+          <a href="/projects" className="btn-primary">View My Work</a>
+          <a href="/resume" className="btn-secondary">Download Resume</a>
+        </div>
+      </section>
+
+      <section className="skills">
+        <h3 className="section-title">Cloud Engineering & DevOps Automation</h3>
+        <p className="section-text">
+          I build reliable, scalable, and secure cloud environments using Azure-native tools
+          and modern DevOps practices.
+        </p>
+
+        <div className="skills-grid">
+          <div className="skill-card">Azure Kubernetes Service (AKS)</div>
+          <div className="skill-card">Azure DevOps Pipelines</div>
+          <div className="skill-card">Bicep IaC</div>
+          <div className="skill-card">Azure Functions</div>
+          <div className="skill-card">Static Web Apps</div>
+          <div className="skill-card">GitHub Actions</div>
+          <div className="skill-card">Docker & Kubernetes</div>
+        </div>
+      </section>
+    </div>
+  );
+}
