@@ -1,3 +1,13 @@
+### 👋 Hi, I'm Chipo Mapimha  
+**Cloud & DevOps Engineer — Azure | Kubernetes | Bicep | CI/CD**
+
+I build scalable cloud infrastructure and DevOps automation using Azure, Kubernetes, Bicep, and Azure DevOps. I enjoy designing multi‑environment architectures, writing clean IaC, and building pipelines that help teams ship faster and more reliably.
+
+This portfolio highlights the projects, case studies, and cloud engineering work I’ve done — from multi‑environment Bicep frameworks to AKS deployments and modern CI/CD pipelines.
+
+🔗 **Portfolio:** https://cmapimha.github.io/chipo-portfolio  
+🔗 **GitHub:** https://github.com/cmapimha  
+
 # Portfolio Starter Kit
 
 This portfolio is built with **Next.js** and a library called [Nextra](https://nextra.vercel.app/). It allows you to write Markdown and focus on the _content_ of your portfolio. This starter includes:
