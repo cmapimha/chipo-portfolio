@@ -4,4 +4,8 @@ const withNextra = require('nextra')({
   output: 'export'
 })
 
-module.exports = withNextra()
+module.exports = withNextra({
+  images: {
+    unoptimized: true
+  }
+})
