@@ -9,10 +9,13 @@ export default function Home() {
           for modern cloud‑native applications.
         </p>
 
-        <div className="hero-buttons">
-          <a href="/projects" className="btn-primary">View My Work</a>
-          <a href="/resume" className="btn-secondary">Download Resume</a>
-        </div>
+<div className="hero-buttons">
+  <a href="/projects" className="btn-primary">View My Work</a>
+  <a href="/resume" className="btn-secondary">View Resume</a>
+  <a href="/Milicent-Mapimha-Resume.pdf" className="btn-secondary" target="_blank">
+    Download PDF
+  </a>
+</div>
       </section>
 
       <section className="skills">
