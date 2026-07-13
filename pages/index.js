@@ -11,7 +11,7 @@ export default function Home() {
 
 <div className="hero-buttons">
   <a href="/projects" className="btn-primary">View My Work</a>
-  <a href="public/Milicent-Mapimha-Resume.pdf className="btn-secondary">View Resume</a>
+  <a href="public/Milicent-Mapimha-Resume.pdf" className="btn-secondary">View Resume</a>
   <a href="public/Milicent-Mapimha-Resume.pdf" className="btn-secondary" target="_blank">
     Download PDF
   </a>
