@@ -19,9 +19,6 @@ export default function Home() {
   Download PDF
 </a>
 </div>
-
-  </a>
-</div>
       </section>
 
       <section className="skills">
