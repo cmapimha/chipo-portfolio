@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <div className="landing-container">
       <section className="hero">
-        <h1 className="hero-title">Chipo Mapimha</h1>
+        <h1 className="hero-title">Chipo Milicent Mapimha</h1>
         <h2 className="hero-subtitle">Cloud & DevOps Engineer</h2>
         <p className="hero-text">
           Designing secure, scalable Azure infrastructure and automated CI/CD pipelines
@@ -18,6 +18,7 @@ export default function Home() {
 <a href="/Milicent-Mapimha-Resume.pdf" className="btn-secondary" download>
   Download PDF
 </a>
+</div>
 
   </a>
 </div>
